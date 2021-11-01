@@ -27,7 +27,7 @@ import geoimagine.support as supp
 #from geoimagine.gis import  MjProj
 
 import geoimagine.support.karttur_dt as mj_dt 
-from plotnine.tests.test_geom_ribbon_area import width
+#from plotnine.tests.test_geom_ribbon_area import width
 
 
 def MakeMosaic(tileL, dstFPN, xRes=False, yRes=False, resampleAlg=False, extent=False):
